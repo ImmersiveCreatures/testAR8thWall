@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 141,
+    "left": 0,
+    "width": 3508,
+    "height": 4677,
+    "isRotated": true,
+    "originalWidth": 3508,
+    "originalHeight": 4961
+  },
+  "imagePath": "image-targets/marcador_2_luminance.jpg",
+  "metadata": null,
+  "name": "marcador_2",
+  "resources": {
+    "originalImage": "marcador_2_original.jpg",
+    "croppedImage": "marcador_2_cropped.jpg",
+    "thumbnailImage": "marcador_2_thumbnail.jpg",
+    "luminanceImage": "marcador_2_luminance.jpg"
+  },
+  "created": 1782222687253,
+  "updated": 1782222687253
+}
